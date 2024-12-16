@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: PIT tag holders for bird legs
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: David
+    family-names: Fifield
+    email: dave.fifield@ec.gc.ca
+    name-particle: Dave
+    affiliation: Environment and Climate Change Canada
+    orcid: 'https://orcid.org/0000-0001-5433-4733'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.14500852
+repository-code: 'https://github.com/dfifield/PIT_tag_holders'
+abstract: >-
+  Customizable OpenSCAD code and example generated STL file
+  for producing PIT tag holders for cylindrical glass tags
+  to attach to bird legs. 
+license: GPL-3.0+
+version: v1.0.0
+date-released: '2024-12-16'
