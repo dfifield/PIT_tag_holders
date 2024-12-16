@@ -4,14 +4,14 @@
 cff-version: 1.2.0
 title: PIT tag holders for bird legs
 message: >-
-  If you use this dataset, please cite it using the metadata
+  If you use this software, please cite it using the metadata
   from this file.
-type: dataset
+type: software
 authors:
   - given-names: David
     family-names: Fifield
     email: dave.fifield@ec.gc.ca
-    name-particle: Dave
+    name-particle: 
     affiliation: Environment and Climate Change Canada
     orcid: 'https://orcid.org/0000-0001-5433-4733'
 identifiers:
