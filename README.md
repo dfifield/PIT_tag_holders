@@ -1,7 +1,6 @@
 # PIT Tag Holders
 [![DOI](https://zenodo.org/badge/904194265.svg)](https://doi.org/10.5281/zenodo.14500851)
 
----
 3D printable holders for glass PIT tags suitable for bird legs (created with [OpenSCAD](https://openscad.org/))
 
 * customizable length, hole diameters, wall thickness, slit for leg opening
